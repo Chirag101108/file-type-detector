@@ -15,4 +15,4 @@ This Python tool monitors directories or checks individual files to detect their
 Run the tool and choose to monitor a directory. It will notify you when a new file is added, showing its type and danger level.
 
 ```bash
-python file_type_checker_with_verbal_risk.py
+python file_type_checker.py
